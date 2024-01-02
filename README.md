@@ -1,4 +1,8 @@
-# PyCox
+# Test and development under PyCox
+
+Handle of exceptional groups.
+
+## PyCox
 
 This is a Python version of some parts of the GAP-CHEVIE package.
 
